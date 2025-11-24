@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>OCA – Cadet Portal</title>
+</head>
+<body>
+  <h1>OCA Website</h1>
+  <p>Welcome! This is the starting page for the OCA site.</p>
+
+  <p>More features coming soon: goals, leadership positions, GWA, 360 grades, BMI & PFT, and star awards.</p>
+</body>
+</html>
